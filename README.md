@@ -163,7 +163,7 @@ print(
 ## Output:
 <img width="646" height="261" alt="Screenshot 2026-10-29 142808" src="https://github.com/user-attachments/assets/264bdaa0-6031-4883-bc4c-f3a1f7e69228" />
 <img width="856" height="263" alt="Screenshot 2026-10-29 142815" src="https://github.com/user-attachments/assets/0575900a-79f9-4adb-8514-6d0c7c6f11a0" />
-<img width="652" height="347" alt="Screenshot 2026-10-29 142826" src="https://github.com/user-attachments/assets/806c6842-c15a-4376-a850-3b1da628cf0d" />
+<img width="596" height="316" alt="image" src="https://github.com/user-attachments/assets/d7ce681f-26b7-4171-8666-d819444dfab9" />
 <img width="926" height="508" alt="Screenshot 2026-10-29 142836" src="https://github.com/user-attachments/assets/740bd27c-c3c5-4051-9b57-175544fd3381" />
 <img width="497" height="50" alt="Screenshot 2026-10-29 142847" src="https://github.com/user-attachments/assets/e4d97347-b7bd-4986-ba6d-fdaa5d84b28d" />
 
